@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread CMakeFiles/mytest.dir/test.cpp.o CMakeFiles/mytest.dir/home/mgjun/桌面/MyWebServer/src/log.cpp.o CMakeFiles/mytest.dir/home/mgjun/桌面/MyWebServer/src/buffer.cpp.o -o mytest 
