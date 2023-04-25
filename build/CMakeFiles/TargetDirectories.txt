@@ -1,3 +1,0 @@
-/home/mgjun/桌面/MyWebServer/build/CMakeFiles/MyWebServer.dir
-/home/mgjun/桌面/MyWebServer/build/CMakeFiles/edit_cache.dir
-/home/mgjun/桌面/MyWebServer/build/CMakeFiles/rebuild_cache.dir
